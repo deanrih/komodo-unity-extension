@@ -1,0 +1,2 @@
+# komodo-unity-extension
+Duplicate
